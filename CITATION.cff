@@ -1,0 +1,33 @@
+repository-code: "https://github.com/VincentAuriau/wsg-gan-color-edition"
+message: "If you use this software, please cite it as below."
+title: "Weak Segmentation-Guided GAN for Realistic Color Edition"
+cff-version: 1.2.0
+doi: 10.1007/978-3-031-43148-7_41
+authors:
+  - family-names: "Auriau"
+    given-names: " Vincent"
+  - family-names: "Malherbe"
+    given-names: " Emmanuel"
+  - family-names: "Perrot"
+    given-names: " Matthieu"
+preferred-citation:
+  type: "conference-paper"
+  publisher:
+    name: "Springer Nature Switzerland"
+  date-released: "2023-01-01"
+  title: "Weak Segmentation-Guided GAN for Realistic Color Edition"
+  booktitle: "Image Analysis and Processing -- ICIAP 2023"
+  editor: "Foresti, Gian Luca
+and Fusiello, Andrea
+and Hancock, Edwin"
+  publisher: "Springer Nature Switzerland"
+  start: "487"
+  end: "499"
+  authors:
+    - family-names: "Auriau"
+      given-names: " Vincent"
+    - family-names: "Malherbe"
+      given-names: " Emmanuel"
+    - family-names: "Perrot"
+      given-names: " Matthieu"
+
