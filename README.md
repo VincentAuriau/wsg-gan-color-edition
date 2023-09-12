@@ -3,6 +3,8 @@
 ![Alt text](https://github.com/VincentAuriau/wsg-gan-color-edition/blob/main/illustrations/header.jpg)
 Paper presented at ICIAP 2023
 
+## Appendix
+
 Appendix file can be found at https://github.com/VincentAuriau/wsg-gan-color-edition/blob/main/pdf_files/appendix.pdf
 
 
