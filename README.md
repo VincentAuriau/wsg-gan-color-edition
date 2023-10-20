@@ -8,7 +8,7 @@ Editing the color of images in a realistic way finds many applications such as c
 
 ## Appendix
 
-Appendix file can be found at [here](https://github.com/VincentAuriau/wsg-gan-color-edition/blob/main/pdf_files/appendix.pdf) and paper full version [here](https://www.researchgate.net/publication/373664662_Weak_Segmentation-Guided_GAN_for_Realistic_Color_Edition)
+Appendix file can be found at [here](https://github.com/VincentAuriau/wsg-gan-color-edition/blob/main/pdf_files/appendix.pdf) and paper full version [here](https://www.researchgate.net/publication/373664662_Weak_Segmentation-Guided_GAN_for_Realistic_Color_Edition).
 
 
 ## Citation 
